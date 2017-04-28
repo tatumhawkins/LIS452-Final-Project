@@ -8,11 +8,19 @@ I considered using the Python for Everyone book, but frankly this book will be e
 
 
 Steps I anticipate/have completed:
+
 X	Isolate the glossary. 
+
 X	Split the glossary into words and definitions and use this to create a Python list (not dictionary). I'm fairly comfortable with lists, I don't really know what I'm doing with dictionaries.  
+
 o	Process the rest of the text looking for long words and words that a used infrequently. 
+
 o	Ask the user with each of these words whether they should be included on the dictionary. 
+
 o	Get definitions for these additional words. (User input??)
+
 o	Create a game/quiz that randomly selects a word from the dictionary, displays it, and asks the user to supply the correct word.
+
 o	Keep track of which/how many words are correct.
+
 o	At the end, display the user’s “score” and a list of missed words. 
