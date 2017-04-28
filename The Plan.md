@@ -7,9 +7,9 @@ I copied each chapter into a .txt file and will be using those files as my textb
 I considered using the Python for Everyone book, but frankly this book will be easier to work with. PfE differentiates between the vocab word and its defintion by bolding the vocab word. This text has the vocab word on one line and the definition on the next line without splitting hte definition across multiple lines. Since the bold goes away in a .txt file (and I wouldn't know how to detected for it anyway), the Wentworth book is more friendy for a first attempt at this type of program. 
 
 
-Steps I anticipate:
-o	Isolate the glossary.
-o	Split the glossary into words and definitions and use this to create a Python dictionary. 
+Steps I anticipate/have completed:
+X	Isolate the glossary. 
+X	Split the glossary into words and definitions and use this to create a Python list (not dictionary). I'm fairly comfortable with lists, I don't really know what I'm doing with dictionaries.  
 o	Process the rest of the text looking for long words and words that a used infrequently. 
 o	Ask the user with each of these words whether they should be included on the dictionary. 
 o	Get definitions for these additional words. (User input??)
