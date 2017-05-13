@@ -19,8 +19,10 @@ o	Ask the user with each of these words whether they should be included on the d
 
 o	Get definitions for these additional words. (User input??)
 
-o	Create a game/quiz that randomly selects a word from the dictionary, displays it, and asks the user to supply the correct word.
+X	Create a game/quiz that randomly selects a word from the dictionary, displays it, and asks the user to supply the correct word.
 
-o	Keep track of which/how many words are correct.
+X Allow the user to decide whter they would like to be quizzed over the entire book, or just a specific chapter. 
 
-o	At the end, display the user’s “score” and a list of missed words. 
+X	Keep track of which/how many words are correct.
+
+X	At the end, display the user’s “score” and a list of missed words. 
